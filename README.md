@@ -13,8 +13,8 @@ We make no guarantee and provide no warantee for any of it.
 
 
 # Acknowldgements 
-- Dylan Jackson for telling me that Hypermill could do this 
+- [Dylan Jackson](https://www.proteummachining.com/) for telling me that Hypermill could do this 
 - Rob Lockwood for telling me that fusion could do this and encouraging me to do it
 - Bob Schultz for making the post edits that make this possible 
-- Chris Zappettini for helping me convert the Brother macro over to haas and fanuc
-- Adam Morely for helping he show you all how to do it
+- [Chris Zappettini](https://github.com/ZapCon1/KnowledgeBase) for helping me convert the Brother macro over to haas and fanuc
+- [Adam Morely](https://www.linkedin.com/in/adammorley132/) for helping he show you all how to do it
