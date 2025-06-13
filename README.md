@@ -14,7 +14,6 @@ We make no guarantee and provide no warantee for any of it.
 
 # Acknowldgements --- The people that really made this work 
 - [Dylan Jackson](https://www.proteummachining.com/) for telling me that Hypermill could do this 
-- [Rob Lockwood](https://www.instagram.com/rob.awesome.lockwood/) for telling me that Fusion could do this and encouraging me to do it
 - [Bob Schultz](https://www.linkedin.com/in/robert-schultz-/) for making the post edits that make this possible 
 - [Chris Zappettini](https://github.com/ZapCon1/KnowledgeBase) for helping me convert the Brother macro over to haas and fanuc
 - [Adam Morely](https://www.linkedin.com/in/adammorley132/) for helping he show you all how to do it
