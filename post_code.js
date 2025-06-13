@@ -2,6 +2,7 @@ properties = {
   // <your other post properties>
   // .
   // .
+  // .
   wcsTolerance: 0.01, // tolerance for checking WCS offsets
   wcsXShift: 0.0, // WCS X Shift for macro validation
   wcsYShift: 0.0, // WCS Y Shift for macro validation
@@ -10,6 +11,7 @@ properties = {
 
 propertyDefinitions = {
   // <your other post property descriptions>
+  // .
   // .
   // .
   wcsTolerance: {
