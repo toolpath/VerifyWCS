@@ -38,4 +38,4 @@ For example G54.1P10 (or G154P10 on a HAAS), would be called as
 - [Dylan Jackson](https://www.proteummachining.com/) for telling me that Hypermill could do this 
 - [Bob Schultz](https://www.linkedin.com/in/robert-schultz-/) for making the post edits that make this possible 
 - [Chris Zappettini](https://github.com/ZapCon1/KnowledgeBase) for helping me convert the Brother macro over to haas and fanuc
-- [Adam Morely](https://www.linkedin.com/in/adammorley132/) for helping he show you all how to do it
+- [Adam Morely](https://www.linkedin.com/in/adammorley132/) for helping me show you all how to do it
